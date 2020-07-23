@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/classroomview2/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/classroomview2/static/js/main.639d41f7.chunk.js",
+    "main.js.map": "/classroomview2/static/js/main.639d41f7.chunk.js.map",
+    "runtime-main.js": "/classroomview2/static/js/runtime-main.bc9d16ff.js",
+    "runtime-main.js.map": "/classroomview2/static/js/runtime-main.bc9d16ff.js.map",
+    "static/css/2.04df905c.chunk.css": "/classroomview2/static/css/2.04df905c.chunk.css",
+    "static/js/2.76db2739.chunk.js": "/classroomview2/static/js/2.76db2739.chunk.js",
+    "static/js/2.76db2739.chunk.js.map": "/classroomview2/static/js/2.76db2739.chunk.js.map",
+    "index.html": "/classroomview2/index.html",
+    "precache-manifest.d978a7d491dd1d0ce6d5c023e1203bf4.js": "/classroomview2/precache-manifest.d978a7d491dd1d0ce6d5c023e1203bf4.js",
+    "service-worker.js": "/classroomview2/service-worker.js",
+    "static/css/2.04df905c.chunk.css.map": "/classroomview2/static/css/2.04df905c.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/classroomview2/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.76db2739.chunk.js.LICENSE.txt": "/classroomview2/static/js/2.76db2739.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/classroomview2/static/media/default-skin.b257fa9c.svg",
+    "static/media/all.min.css": "/classroomview2/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc9d16ff.js",
+    "static/css/2.04df905c.chunk.css",
+    "static/js/2.76db2739.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.639d41f7.chunk.js"
+  ]
+}
