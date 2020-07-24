@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cea6dc7ff79a269cc57b9dd61043c8a",
+    "revision": "ae7a246b7d4a80d7c793b014bcced961",
     "url": "/classroomview2/index.html"
   },
   {
-    "revision": "5ac6a9101e7d3220dd99",
+    "revision": "88e9e7d510970433877f",
     "url": "/classroomview2/static/css/2.04df905c.chunk.css"
   },
   {
-    "revision": "c11127fd0fa94103ac0c",
+    "revision": "a572c9a72a4b6ae63157",
     "url": "/classroomview2/static/css/main.d498bfb3.chunk.css"
   },
   {
-    "revision": "5ac6a9101e7d3220dd99",
-    "url": "/classroomview2/static/js/2.76db2739.chunk.js"
+    "revision": "88e9e7d510970433877f",
+    "url": "/classroomview2/static/js/2.74589bb7.chunk.js"
   },
   {
     "revision": "b46eae19120e0343c25f399c83a404d7",
-    "url": "/classroomview2/static/js/2.76db2739.chunk.js.LICENSE.txt"
+    "url": "/classroomview2/static/js/2.74589bb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c11127fd0fa94103ac0c",
-    "url": "/classroomview2/static/js/main.639d41f7.chunk.js"
+    "revision": "a572c9a72a4b6ae63157",
+    "url": "/classroomview2/static/js/main.531f5e8d.chunk.js"
   },
   {
     "revision": "c29c01b1e187a5a3fd3a",
