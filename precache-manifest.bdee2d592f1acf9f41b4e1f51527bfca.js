@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae7a246b7d4a80d7c793b014bcced961",
+    "revision": "2c4b8da104360cda5d2e45df462b77e2",
     "url": "/classroomview2/index.html"
   },
   {
-    "revision": "88e9e7d510970433877f",
+    "revision": "3bce9c4d235dea327f9a",
     "url": "/classroomview2/static/css/2.04df905c.chunk.css"
   },
   {
-    "revision": "a572c9a72a4b6ae63157",
+    "revision": "b99abc82df90f0f1d161",
     "url": "/classroomview2/static/css/main.d498bfb3.chunk.css"
   },
   {
-    "revision": "88e9e7d510970433877f",
-    "url": "/classroomview2/static/js/2.74589bb7.chunk.js"
+    "revision": "3bce9c4d235dea327f9a",
+    "url": "/classroomview2/static/js/2.7bb6ba80.chunk.js"
   },
   {
     "revision": "b46eae19120e0343c25f399c83a404d7",
-    "url": "/classroomview2/static/js/2.74589bb7.chunk.js.LICENSE.txt"
+    "url": "/classroomview2/static/js/2.7bb6ba80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a572c9a72a4b6ae63157",
-    "url": "/classroomview2/static/js/main.531f5e8d.chunk.js"
+    "revision": "b99abc82df90f0f1d161",
+    "url": "/classroomview2/static/js/main.07bbb3e4.chunk.js"
   },
   {
     "revision": "c29c01b1e187a5a3fd3a",
